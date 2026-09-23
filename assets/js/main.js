@@ -1,0 +1,1 @@
+console.log("Lab 4 JS initialized");
