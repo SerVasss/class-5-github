@@ -22,3 +22,9 @@ body {
     padding: 40px 20px;
     min-height: 200px;
 }
+.footer {
+    background-color: #222;
+    color: #aaa;
+    text-align: center;
+    padding: 15px;
+}
