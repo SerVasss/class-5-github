@@ -18,3 +18,7 @@ body {
     color: #fff;
     text-align: center;
 }
+.main {
+    padding: 40px 20px;
+    min-height: 200px;
+}
